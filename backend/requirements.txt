@@ -14,7 +14,7 @@ cffi==1.14.6
 charset-normalizer==2.0.3
 click==8.0.1
 coverage==5.5
-cryptography==3.4.7
+cryptography==42.0.0
 databases==0.4.3
 distro==1.5.0
 dnspython==2.1.0
